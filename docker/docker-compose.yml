@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  development:
+    image: rust:latest
+    env_file:
+      - rust.env
+    restart: on-failure
+    tty: true
+    volumes:
+      - type: bind
+        source: $PROJECT_ROOT
+        target: /root/$PROJECT_NAME
+        volume:
+          nocopy: true
+        read_only: false
+    working_dir: /root/$PROJECT_NAME
