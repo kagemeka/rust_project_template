@@ -22,7 +22,7 @@ version = "0.1.0"
 # workspace = "."
 build = false # "scripts/build.rs"
 # links = "foo"
-default-run = "hello"
+default-run = "main"
 exclude = [
   "/docker/",
   "/scripts/",
