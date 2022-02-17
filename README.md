@@ -18,3 +18,8 @@
 - https://rustwasm.github.io/docs/book/
 - https://tourofrust.com/
 - https://www.rust-lang.org/learn
+
+
+## naming project
+this project's crate name uses hyphens but, 
+it's prefer to use underscores instead of hyphens in Rust projects.
