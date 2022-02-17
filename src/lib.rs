@@ -26,8 +26,8 @@ pub fn public_function() {
 fn private_function() {
     println!("called `private_function()`",);
     println!(
-        "called `private_function()` `private_function()` `private_function`
-        `private_function()` `private_function()` `private_function()` \
+        "called `private_function()` `private_function()` `private_function` \
+         `private_function()` `private_function()` `private_function()` \
          `private_function()`"
     );
 }

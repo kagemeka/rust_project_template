@@ -1,3 +1,4 @@
+# https://rust-lang.github.io/rustfmt
 array_width = 31
 attr_fn_like_width = 15
 binop_separator = "Front"
