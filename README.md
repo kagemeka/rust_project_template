@@ -21,5 +21,5 @@
 
 
 ## naming project
-this project's crate name uses hyphens but, 
+this project's crate name uses hyphens but,
 it's prefer to use underscores instead of hyphens in Rust projects.
