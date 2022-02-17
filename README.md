@@ -18,6 +18,7 @@
 - https://rust-lang-nursery.github.io/rust-cookbook
 - https://rust-lang.github.io/api-guidelines
 - https://rust-lang.github.io/rfcs
+- https://rust-lang.github.io/rust-forge
 - https://rust-lang.github.io/rustfmt
 - https://rustwasm.github.io/docs/book/
 - https://tourofrust.com/
