@@ -24,6 +24,10 @@
 - https://www.rust-lang.org/learn
 
 
-## naming project
+## Naming project
 this project's crate name uses hyphens but,
 it's prefer to use underscores instead of hyphens in Rust projects.
+
+
+## Publish to https://crates.io
+- https://doc.rust-lang.org/cargo/reference/publishing.html

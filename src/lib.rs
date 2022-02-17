@@ -4,7 +4,8 @@
 pub mod sample_module {
     //! `//!` comment can be used for the module.
 
-    /// `///` is a doc comment for the function, struct, or trait ...
+    /// `///` is a doc comment for the function, struct, or
+    /// trait ...
     pub fn public_fn_in_module(arg: i64) {
         // `//` comment is not a doc comment.
         println!(
@@ -26,6 +27,7 @@ fn private_function() {
     println!("called `private_function()`",);
     println!(
         "called `private_function()` `private_function()` `private_function`
-        `private_function()` `private_function()` `private_function()` `private_function()`"
+        `private_function()` `private_function()` `private_function()` \
+         `private_function()`"
     );
 }
