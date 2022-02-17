@@ -30,6 +30,6 @@ exclude = [
 include = [
   #   "/src",
 ]
-publish = ["crates.io"]
+# publish = ["<registry>"]
 
 [dependencies]
