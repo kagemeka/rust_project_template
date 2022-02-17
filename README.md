@@ -1,2 +1,1 @@
-# rust-project-template
-rust project template
+# Rust Project Template
