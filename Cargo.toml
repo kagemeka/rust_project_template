@@ -20,9 +20,16 @@ repository = "https://github.com/kagemeka/rust-project-template"
 rust-version = "1.58.1"
 version = "0.1.0"
 # workspace = "."
-build = false # "build.rs"
+build = false # "scripts/build.rs"
 # links = "foo"
-exclude = []
-include = []
+default-run = "hello"
+exclude = [
+  "/docker/",
+  "/scripts/",
+]
+include = [
+  #   "/src",
+]
+publish = ["crates.io"]
 
 [dependencies]
