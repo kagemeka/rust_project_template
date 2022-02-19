@@ -11,6 +11,7 @@
 [gh-pages-url]: https://kagemeka.github.io/rust_project_template
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: https://github.com/kagemeka/rust_project_template/blob/main/LICENSE
+[docs-url]: https://docs.rs/project_template
 <!-- [actions-badge]:
 [actions-url]:  -->
 
@@ -37,6 +38,9 @@
 * https://tourofrust.com/
 * https://www.rust-lang.org/learn
 
+
+## Documentation
+see [API document][docs-url]
 
 ## Naming project
 this project's crate name uses hyphens but,
