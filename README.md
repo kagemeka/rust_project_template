@@ -18,12 +18,17 @@
 - https://rust-lang-nursery.github.io/rust-cookbook
 - https://rust-lang.github.io/api-guidelines
 - https://rust-lang.github.io/rfcs
+- https://rust-lang.github.io/rust-forge
 - https://rust-lang.github.io/rustfmt
 - https://rustwasm.github.io/docs/book/
 - https://tourofrust.com/
 - https://www.rust-lang.org/learn
 
 
-## naming project
+## Naming project
 this project's crate name uses hyphens but,
 it's prefer to use underscores instead of hyphens in Rust projects.
+
+
+## Publish to https://crates.io
+- https://doc.rust-lang.org/cargo/reference/publishing.html
