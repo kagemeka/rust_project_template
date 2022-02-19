@@ -3,7 +3,7 @@
 [![Crates.io][crates-badge]][crates-url]
 [![Github pages][gh-pages-badge]][gh-pages-url]
 [![MIT licensed][mit-badge]][mit-url]
-<!-- [![Build Status][actions-badge]][actions-url] -->
+[![CI][actions-badge]][actions-url]
 
 [crates-badge]: https://img.shields.io/crates/v/project_template.svg
 [crates-url]: https://crates.io/crates/project_template
@@ -12,10 +12,11 @@
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: https://github.com/kagemeka/rust_project_template/blob/main/LICENSE
 [docs-url]: https://docs.rs/project_template
-<!-- [actions-badge]:
-[actions-url]:  -->
+[actions-badge]: https://github.com/kagemeka/rust_project_template/actions/workflows/rust.yml/badge.svg
+[actions-url]: https://github.com/kagemeka/rust_project_template/actions/workflows/rust.yml
 
 ## References
+
 * https://doc.rust-lang.org/book/
 * https://doc.rust-lang.org/error-index.html
 * https://doc.rust-lang.org/nightly/unstable-book/index.html
@@ -38,14 +39,15 @@
 * https://tourofrust.com/
 * https://www.rust-lang.org/learn
 
-
 ## Documentation
+
 see [API document][docs-url]
 
 ## Naming project
+
 this project's crate name uses hyphens but,
 it's prefer to use underscores instead of hyphens in Rust projects.
 
-
 ## Publish to https://crates.io
+
 * https://doc.rust-lang.org/cargo/reference/publishing.html

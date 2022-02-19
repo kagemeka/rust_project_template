@@ -1,5 +1,6 @@
 #!/bin/bash
 
+./scripts/install_nightly.sh
 ./scripts/install_rustfmt.sh
 
 cargo fmt \

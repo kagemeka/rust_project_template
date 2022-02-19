@@ -6,7 +6,7 @@ categories = [
   "config",
   "development-tools",
   "rust-patterns",
-]
+] # https://crates.io/category_slugs
 description = "A template for Rust project"
 documentation = "https://docs.rs/project_template"
 edition = "2021"
