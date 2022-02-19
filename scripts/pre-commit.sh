@@ -1,4 +1,7 @@
 #!/bin/bash
 
-./scripts/install_pre-commit.sh
+if ! command -v pre-commit &>/dev/null; then
+    echo "command not found"
+    ./scripts/install_pre-commit.sh
+fi
 pre-commit run --all-files
