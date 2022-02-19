@@ -1,7 +1,7 @@
 # Rust Project Template
 
-
 [![crates.io](https://img.shields.io/crates/v/project_template.svg?style=plastic")](https://img.shields.io/crates/v/nalgebra.svg?style=plastic")
+[![pages-build-deployment](https://github.com/kagemeka/rust_project_template/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/kagemeka/rust_project_template/actions/workflows/pages/pages-build-deployment)
 
 ## References
 - https://doc.rust-lang.org/book/
