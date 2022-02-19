@@ -4,6 +4,7 @@
 [![Github pages][gh-pages-badge]][gh-pages-url]
 [![MIT licensed][mit-badge]][mit-url]
 [![CI][actions-badge]][actions-url]
+[![pre-commit][pre-commit-badge]][pre-commit-url]
 
 [crates-badge]: https://img.shields.io/crates/v/project_template.svg
 [crates-url]: https://crates.io/crates/project_template
@@ -14,6 +15,8 @@
 [docs-url]: https://docs.rs/project_template
 [actions-badge]: https://github.com/kagemeka/rust_project_template/actions/workflows/rust.yml/badge.svg
 [actions-url]: https://github.com/kagemeka/rust_project_template/actions/workflows/rust.yml
+[pre-commit-badge]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
+[pre-commit-url]: https://github.com/pre-commit/pre-commit
 
 ## References
 
@@ -45,7 +48,7 @@ see [API document][docs-url]
 
 ## Naming project
 
-this project's crate name uses hyphens but,
+this project's crate name uses hyphens but, 
 it's prefer to use underscores instead of hyphens in Rust projects.
 
 ## Publish to https://crates.io
