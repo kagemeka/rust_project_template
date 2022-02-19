@@ -11,7 +11,7 @@
 [gh-pages-url]: https://github.com/kagemeka/rust_project_template/actions/workflows/pages/pages-build-deployment
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: https://github.com/kagemeka/rust_project_template/blob/main/LICENSE
-<!-- [actions-badge]: 
+<!-- [actions-badge]:
 [actions-url]:  -->
 
 ## References
