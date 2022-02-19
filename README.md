@@ -1,6 +1,8 @@
 # Rust Project Template
 
 
+[![crates.io](https://img.shields.io/crates/v/project_template.svg?style=plastic")](https://img.shields.io/crates/v/nalgebra.svg?style=plastic")
+
 ## References
 - https://doc.rust-lang.org/book/
 - https://doc.rust-lang.org/error-index.html
