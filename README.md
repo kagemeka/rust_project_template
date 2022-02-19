@@ -8,7 +8,7 @@
 [crates-badge]: https://img.shields.io/crates/v/project_template.svg
 [crates-url]: https://crates.io/crates/project_template
 [gh-pages-badge]: https://github.com/kagemeka/rust_project_template/actions/workflows/pages/pages-build-deployment/badge.svg
-[gh-pages-url]: https://github.com/kagemeka/rust_project_template/actions/workflows/pages/pages-build-deployment
+[gh-pages-url]: https://kagemeka.github.io/rust_project_template
 [mit-badge]: https://img.shields.io/badge/license-MIT-blue.svg
 [mit-url]: https://github.com/kagemeka/rust_project_template/blob/main/LICENSE
 <!-- [actions-badge]:
