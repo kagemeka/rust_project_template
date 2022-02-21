@@ -31,3 +31,24 @@ fn private_function() {
          `private_function()`"
     );
 }
+
+pub mod another_mod;
+pub mod sub_mod;
+
+#[cfg(test)]
+mod tests {
+    #[test]
+    fn it_works() {
+        assert_eq!(2 + 2, 4);
+    }
+
+    #[test]
+    fn access_to_child_mod() {
+        super::another_mod::pub_in_crate();
+        // super means the parent of `tests` module.
+
+        // super::sub_mod::another_mod::pub_in_super();
+        // compile error because another_mod is only public in
+        // sub_mod;
+    }
+}
