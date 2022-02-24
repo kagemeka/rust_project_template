@@ -42,6 +42,7 @@
 * https://tourofrust.com/
 * https://www.rust-lang.org/learn
 * https://bfnightly.bracketproductions.com/
+* https://dhghomon.github.io/easy_rust
 
 ## Documentation
 
