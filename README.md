@@ -41,6 +41,7 @@
 * https://rustwasm.github.io/docs/book/
 * https://tourofrust.com/
 * https://www.rust-lang.org/learn
+* https://bfnightly.bracketproductions.com/
 
 ## Documentation
 
