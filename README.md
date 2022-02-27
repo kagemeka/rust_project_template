@@ -33,6 +33,7 @@
 * https://doc.rust-lang.org/stable/rustdoc/
 * https://github.com/rust-lang/rustfmt
 * https://rust-cli.github.io/book/index.html
+* https://rust-lang.github.io/async-book
 * https://rust-lang-nursery.github.io/rust-cookbook
 * https://rust-lang.github.io/api-guidelines
 * https://rust-lang.github.io/rfcs
