@@ -44,6 +44,7 @@
 * https://www.rust-lang.org/learn
 * https://bfnightly.bracketproductions.com/
 * https://dhghomon.github.io/easy_rust
+* https://doc.rust-lang.org/beta/embedded-book
 
 ## Documentation
 
